@@ -2,7 +2,10 @@
 
 #### *PDF files provide thorough guidance on installing varioius dependencies, comprehensive backend testing, burndown charts, and sprint defails. 
 
-+ It is a very interesting iOS app created from scratch 
+CUNY Hackaton App is an iOS app created from scratch
+
+#### Contribution:
+
     - My primary focus was implementing the backend
         - I implemented the backend for the following features:
         - User
