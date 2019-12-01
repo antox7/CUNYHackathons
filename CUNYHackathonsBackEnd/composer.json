@@ -1,0 +1,7 @@
+{
+    "require": {
+        "PHPMailer/PHPMailer": "^6.0",
+        "league/oauth2-google": "^2.0",
+        "stevenmaguire/oauth2-microsoft": "^2.2"
+    }
+}

@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6baf5fa5-0450-42ba-aa8c-3e5f7b585f49" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="chat_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_op/chat_table/chat_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding>
+                <marker date="1514295788124" expanded="true" signature="169:389" ph="CREATE TABLE... ${$chat}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deletehackathon.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackathon_op/deletehackathon.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <marker date="1514296748501" expanded="true" signature="308:379" ph="SELECT * FRO... ${$hackathon}" />
+                <marker date="1514296748501" expanded="true" signature="512:582" ph="DELETE FROM ${$hackathon}... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insertgroup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/group_op/insertgroup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <marker date="1514296748876" expanded="true" signature="468:519" ph="SELECT * FRO... ${$group}" />
+                <marker date="1514296748876" expanded="true" signature="780:855" ph="INSERT INTO ${$group}... " />
+                <marker date="1514296748876" expanded="true" signature="1061:1145" ph="SELECT group... ${$group}" />
+                <marker date="1514296748876" expanded="true" signature="2094:2169" ph="INSERT INTO ${$chat}... " />
+                <marker date="1514296748876" expanded="true" signature="2261:2273" ph="INSERT INTO ${$mem}... " />
+                <marker date="1514296748876" expanded="true" signature="2261:2336" ph="INSERT INTO ${$wanted}... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displaygroup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/group_op/displaygroup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <marker date="1514296748939" expanded="true" signature="291:305" ph="SELECT * FRO... ${$hackathon}" />
+                <marker date="1514296748939" expanded="true" signature="291:340" ph="SELECT * FRO... ${$group}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="removegroup.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/group_op/removegroup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+              <folding>
+                <marker date="1514296748829" expanded="true" signature="241:292" ph="SELECT * FRO... ${$hackathon}" />
+                <marker date="1514296748829" expanded="true" signature="545:591" ph="SELECT * FRO... ${$chat}" />
+                <marker date="1514296748829" expanded="true" signature="977:989" ph="DELETE FROM ${$chat}... " />
+                <marker date="1514296748829" expanded="true" signature="977:994" ph="DELETE FROM ${$chat}... " />
+                <marker date="1514296748829" expanded="true" signature="977:1021" ph="DELETE FROM ${$chat}... " />
+                <marker date="1514296748829" expanded="true" signature="1388:1437" ph="DELETE FROM ${$hackathon}... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="insertchat.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_op/insertchat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-221">
+              <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+              <folding>
+                <marker date="1514295769033" expanded="true" signature="824:881" ph="SELECT group... ${$group}" />
+                <marker date="1514295769033" expanded="true" signature="1187:1233" ph="SELECT chatI... ${$chat}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ab9ca00f50405a333c6d7523146c62ea.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_op/messages/ab9ca00f50405a333c6d7523146c62ea.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displaychat.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chat_op/displaychat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+              <folding>
+                <marker date="1514295769064" expanded="true" signature="204:261" ph="SELECT group... ${$group}" />
+                <marker date="1514295769064" expanded="true" signature="384:425" ph="SELECT chatP... ${$chat}" />
+                <marker date="1514295769064" expanded="true" signature="384:437" ph="SELECT chatP... ${$chat}" />
+                <marker date="1514295769064" expanded="true" signature="384:439" ph="SELECT chatP... ${$chat}" />
+                <marker date="1514295769064" expanded="true" signature="384:440" ph="SELECT chatP... ${$chat}" />
+                <marker date="1514295769064" expanded="true" signature="384:441" ph="SELECT chatP... ${$chat}" />
+                <marker date="1514295769064" expanded="true" signature="384:450" ph="SELECT chatP... ${$chat}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2ba625f10055fd187107ab2fd01711d4.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_op/messages/2ba625f10055fd187107ab2fd01711d4.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="95aa58e0ade3913f1bc23592ec8b4aef.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chat_op/messages/95aa58e0ade3913f1bc23592ec8b4aef.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>uniq</find>
+      <find>was not</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chat_op/groupchat.php" />
+        <option value="$PROJECT_DIR$/group_op/group_table/foreign_keys.php" />
+        <option value="$PROJECT_DIR$/group_op/group_table/chat_table.php" />
+        <option value="$PROJECT_DIR$/user_op/credentials.php" />
+        <option value="$PROJECT_DIR$/group_op/test.php" />
+        <option value="$PROJECT_DIR$/chat_op/messages/1522ec651db327d8ddfebc01b73a1531.txt" />
+        <option value="$PROJECT_DIR$/user_op/connect.php" />
+        <option value="$PROJECT_DIR$/chat_op/insertchat.php" />
+        <option value="$PROJECT_DIR$/chat_op/displaychat.php" />
+        <option value="$PROJECT_DIR$/chat_op/chat_table/chat_table.php" />
+        <option value="$PROJECT_DIR$/mail.php" />
+        <option value="$PROJECT_DIR$/user_op/verify.php" />
+        <option value="$PROJECT_DIR$/user_op/signup.php" />
+        <option value="$PROJECT_DIR$/user_op/signin.php" />
+        <option value="$PROJECT_DIR$/user_op/logout.php" />
+        <option value="$PROJECT_DIR$/hackathon_op/retrievehackathon.php" />
+        <option value="$PROJECT_DIR$/hackathon_op/deletehackathon.php" />
+        <option value="$PROJECT_DIR$/hackathon_op/addhackathon.php" />
+        <option value="$PROJECT_DIR$/hackathon_op/hackathon_table/hackathon_table.php" />
+        <option value="$PROJECT_DIR$/group_op/removegroup.php" />
+        <option value="$PROJECT_DIR$/group_op/insertgroup.php" />
+        <option value="$PROJECT_DIR$/group_op/displaygroup.php" />
+        <option value="$PROJECT_DIR$/group_op/group_table/group_member_table.php" />
+        <option value="$PROJECT_DIR$/group_op/group_table/group_table.php" />
+        <option value="$PROJECT_DIR$/group_op/group_table/member_wanted.php" />
+        <option value="$PROJECT_DIR$/database_op/credentials.php" />
+        <option value="$PROJECT_DIR$/database_op/connect.php" />
+        <option value="$PROJECT_DIR$/database_op/createdb.php" />
+        <option value="$PROJECT_DIR$/user_op/user_table/user_table.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-2" />
+    <option name="y" value="1" />
+    <option name="width" value="1226" />
+    <option name="height" value="965" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CUNYHackathonsBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUNYHackathonsBackEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CUNYHackathonsBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUNYHackathonsBackEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="chat_op" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CUNYHackathonsBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUNYHackathonsBackEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="chat_op" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="chat_table" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CUNYHackathonsBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUNYHackathonsBackEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="chat_op" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="messages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CUNYHackathonsBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUNYHackathonsBackEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="database_op" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CUNYHackathonsBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUNYHackathonsBackEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="group_op" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CUNYHackathonsBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUNYHackathonsBackEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="hackathon_op" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CUNYHackathonsBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUNYHackathonsBackEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="user_op" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="CUNYHackathonsBackEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CUNYHackathonsBackEnd" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="user_op" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="user_table" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CUNYHackathonsBackEnd\database_op" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.createdb.php">
+    <configuration name="createdb.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/database_op/createdb.php" />
+    <configuration name="displaychat.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/chat_op/displaychat.php" />
+    <configuration name="logout.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/user_op/logout.php" />
+    <configuration name="mail.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/mail.php" />
+    <configuration name="signup.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/user_op/signup.php" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.signup.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.logout.php" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.displaychat.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.mail.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.createdb.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.createdb.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.mail.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.displaychat.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.logout.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.signup.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6baf5fa5-0450-42ba-aa8c-3e5f7b585f49" name="Default" comment="" />
+      <created>1514240200710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514240200710</updated>
+      <workItem from="1514240201914" duration="39048000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39048000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2" y="1" width="1226" height="965" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21652892" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36799064" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chat_op/groupchat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/addgroup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/xxx.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/aee4bd941f8b4d9e39210c06c44fcb71.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/group_table/chat_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/group_table/foreign_keys.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/d41d8cd98f00b204e9800998ecf8427e.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/e7fb818f867578fad17d14f003742e82.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/44f437ced647ec3f40fa0841041871cd.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/eb9279982226a42afdf2860dbdc29b45.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/eb9279982226a42afdf2860dbdc29b45.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/f1290186a5d0b1ceab27f4e77c0c5d68.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/f1290186a5d0b1ceab27f4e77c0c5d68.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/ad57484016654da87125db86f4227ea3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/1522ec651db327d8ddfebc01b73a1531.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_op/verify.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1514296748470" expanded="true" signature="363:421" ph="SELECT * FRO... ${$users}" />
+            <marker date="1514296748470" expanded="true" signature="759:808" ph="UPDATE users... " />
+            <marker date="1514296748470" expanded="true" signature="855:906" ph="UPDATE ${$users}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_op/signup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <marker date="1514296748783" expanded="true" signature="854:895" ph="SELECT * FRO... ${$users}" />
+            <marker date="1514296748783" expanded="true" signature="1236:1317" ph="INSERT INTO ${$users}... " />
+            <marker date="1514296748783" expanded="true" signature="1404:1457" ph="UPDATE ${$users}... " />
+            <marker date="1514296748783" expanded="true" signature="1504:1559" ph="UPDATE ${$users}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_op/hackathon_table/hackathon_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1514296748751" expanded="true" signature="134:593" ph="CREATE TABLE... ${$hackathon}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/group_table/group_member_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1514296748423" expanded="true" signature="171:224" ph="CREATE TABLE... ${$group}" />
+            <marker date="1514296748423" expanded="true" signature="171:261" ph="CREATE TABLE... ${$member}" />
+            <marker date="1514296748423" expanded="true" signature="171:262" ph="CREATE TABLE... ${$member}" />
+            <marker date="1514296748423" expanded="true" signature="171:339" ph="CREATE TABLE... ${$member}" />
+            <marker date="1514296748423" expanded="true" signature="171:354" ph="CREATE TABLE... ${$member}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/group_table/group_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1514296748658" expanded="true" signature="171:339" ph="CREATE TABLE... ${$group}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/group_table/member_wanted.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <marker date="1514296748533" expanded="true" signature="171:382" ph="CREATE TABLE... ${$chat}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database_op/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database_op/credentials.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database_op/createdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_op/user_table/user_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="32" lean-forward="false" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+          <folding>
+            <marker date="1514297275278" expanded="true" signature="83:355" ph="CREATE TABLE... ${$users}" />
+            <marker date="1514297275278" expanded="true" signature="687:778" ph="INSERT INTO `${$db}`.${$users}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_op/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <marker date="1514296748908" expanded="true" signature="342:395" ph="UPDATE ${$users}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_op/signin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1514296748845" expanded="true" signature="252:293" ph="SELECT * FRO... ${$users}" />
+            <marker date="1514296748845" expanded="true" signature="634:687" ph="UPDATE ${$users}... " />
+            <marker date="1514296748845" expanded="true" signature="1073:1126" ph="UPDATE ${$users}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_op/addhackathon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1514296748954" expanded="true" signature="939:1019" ph="SELECT * FRO... ${$hackathon}" />
+            <marker date="1514296748954" expanded="true" signature="1374:1745" ph="INSERT INTO ${$hackathon}... " />
+            <marker date="1514296748954" expanded="true" signature="2007:2415" ph="INSERT INTO ${$hackathon}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_op/retrievehackathon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1514296748689" expanded="true" signature="104:118" ph="SELECT * FRO... ${$hackathon}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackathon_op/deletehackathon.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1514296748501" expanded="true" signature="308:379" ph="SELECT * FRO... ${$hackathon}" />
+            <marker date="1514296748501" expanded="true" signature="512:582" ph="DELETE FROM ${$hackathon}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/insertgroup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1514296748876" expanded="true" signature="468:519" ph="SELECT * FRO... ${$group}" />
+            <marker date="1514296748876" expanded="true" signature="780:855" ph="INSERT INTO ${$group}... " />
+            <marker date="1514296748876" expanded="true" signature="1061:1145" ph="SELECT group... ${$group}" />
+            <marker date="1514296748876" expanded="true" signature="2094:2169" ph="INSERT INTO ${$chat}... " />
+            <marker date="1514296748876" expanded="true" signature="2261:2273" ph="INSERT INTO ${$mem}... " />
+            <marker date="1514296748876" expanded="true" signature="2261:2336" ph="INSERT INTO ${$wanted}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/displaygroup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1514296748939" expanded="true" signature="291:305" ph="SELECT * FRO... ${$hackathon}" />
+            <marker date="1514296748939" expanded="true" signature="291:340" ph="SELECT * FRO... ${$group}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/chat_table/chat_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1514295788124" expanded="true" signature="169:389" ph="CREATE TABLE... ${$chat}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/group_op/removegroup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="33" column="49" lean-forward="true" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+          <folding>
+            <marker date="1514296748829" expanded="true" signature="241:292" ph="SELECT * FRO... ${$hackathon}" />
+            <marker date="1514296748829" expanded="true" signature="545:591" ph="SELECT * FRO... ${$chat}" />
+            <marker date="1514296748829" expanded="true" signature="977:989" ph="DELETE FROM ${$chat}... " />
+            <marker date="1514296748829" expanded="true" signature="977:994" ph="DELETE FROM ${$chat}... " />
+            <marker date="1514296748829" expanded="true" signature="977:1021" ph="DELETE FROM ${$chat}... " />
+            <marker date="1514296748829" expanded="true" signature="1388:1437" ph="DELETE FROM ${$hackathon}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/2ba625f10055fd187107ab2fd01711d4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/95aa58e0ade3913f1bc23592ec8b4aef.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/insertchat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-221">
+          <caret line="26" column="64" lean-forward="true" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+          <folding>
+            <marker date="1514295769033" expanded="true" signature="824:881" ph="SELECT group... ${$group}" />
+            <marker date="1514295769033" expanded="true" signature="1187:1233" ph="SELECT chatI... ${$chat}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/messages/ab9ca00f50405a333c6d7523146c62ea.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chat_op/displaychat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+          <folding>
+            <marker date="1514295769064" expanded="true" signature="204:261" ph="SELECT group... ${$group}" />
+            <marker date="1514295769064" expanded="true" signature="384:425" ph="SELECT chatP... ${$chat}" />
+            <marker date="1514295769064" expanded="true" signature="384:437" ph="SELECT chatP... ${$chat}" />
+            <marker date="1514295769064" expanded="true" signature="384:439" ph="SELECT chatP... ${$chat}" />
+            <marker date="1514295769064" expanded="true" signature="384:440" ph="SELECT chatP... ${$chat}" />
+            <marker date="1514295769064" expanded="true" signature="384:441" ph="SELECT chatP... ${$chat}" />
+            <marker date="1514295769064" expanded="true" signature="384:450" ph="SELECT chatP... ${$chat}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
