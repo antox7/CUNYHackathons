@@ -1,6 +1,6 @@
 ### CUNYHackathons
 
-#### Note: The PDF files provide thorough guidance on installing varioius dependencies, comprehensive backend testing, burndown charts, and sprint defails.
+#### *PDF files provide thorough guidance on installing varioius dependencies, comprehensive backend testing, burndown charts, and sprint defails. 
 
 + It is a very interesting iOS app created from scratch 
     - My primary focus was implementing the backend
@@ -33,6 +33,9 @@
 + Tech
     - PHP (Database connection, creating tables, ...)
     - MySQL (User specific details including Photos)
+
++ Testing
+    - I used POSTMAN to test the backend Routes
 
 + Extremely proud of completing this project. Frontend was briliantly put 
 together by an experienced team member who provided me with guidance in tough times.
