@@ -34,7 +34,7 @@
     - PHP (Database connection, creating tables, ...)
     - MySQL (User specific details including Photos)
 
-+ Extremely proud of completing this project's backend. Frontend was briliantly put 
++ Extremely proud of completing this project. Frontend was briliantly put 
 together by an experienced team member who provided me with guidance in tough times.
-I started without knowing what 'backend' meant let alone PHP or MySQL, but walked 
+I started without knowing what 'backend' meant let alone PHP or MySQL, but certainly walked 
 away with some good ideas in mind.
